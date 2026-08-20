@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Imran Ali Hassan GitHub Banner">
+<img src="./assets/banner" width="100%" alt="Imran Ali Hassan GitHub Banner">
 
 ### WELCOME TO MY GITHUB PROFILE
 
 </div>
 
-----
+---
 
 # Hi, I'm Imran Ali Hassan
 
